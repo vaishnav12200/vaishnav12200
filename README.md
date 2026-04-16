@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Vaishnav K M</h1>
-  <h3>Building. Exploring. Creating with AI.</h3>
+  <h3>Learning to build systems and learning to secure them.</h3>
 </div>
 
 ---
@@ -13,7 +13,7 @@
 <br/>
 🤖 Exploring and working with AI tools
 <br/>
-🔍 Curious about systems and how things work
+🛡️ Exploring Cybersecurity and ethical hacking fundamentals
 <br/>
 📖 Currently learning **C#** to build efficient system-level applications and tools
 
