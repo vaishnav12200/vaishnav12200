@@ -81,9 +81,9 @@ A smart bill-splitting and expense tracker — makes settling shared expenses si
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnav12200&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Vaishnav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnav12200&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav12200&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Vaishnav's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav12200&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
